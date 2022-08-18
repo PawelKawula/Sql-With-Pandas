@@ -1,4 +1,4 @@
-Just my own repo to play around with `sqlite3`, `numpy` and `pandas`
+Just my own repo to play around with `sqlite3`, `tkinter` and `pandas`
 
 If you want to run it on your local machine, you will have to
 make sqlite-uuid and load into your sqlite3 database, you can
