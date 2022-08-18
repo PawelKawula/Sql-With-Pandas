@@ -1,0 +1,5 @@
+*.txt
+resources/*
+!resources/ElectricShop.sql
+__pycache__/
+
